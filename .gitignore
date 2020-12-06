@@ -1,0 +1,7 @@
+/encryptool
+/*.pem
+/*.ppk
+ecyrpt_aws_components.png
+/how-to
+/__pycache__
+/.vscode
