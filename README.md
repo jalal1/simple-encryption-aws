@@ -2,9 +2,9 @@
 
 Files encryption using OpenSSL with python-tkinter and AWS.
 
-![alt text](/imgs/sys-diagram.png)
+![alt text](/imgs/sys-diagram.PNG)
 
-![alt text](/imgs/login.png)
+![alt text](/imgs/login.PNG)
 
 ### Installation
 
