@@ -6,7 +6,7 @@ Files encryption using OpenSSL with python-tkinter and AWS.
 
 ![alt text](/imgs/login.PNG)
 
-Demo Video: https://www.youtube.com/watch?v=LLcZlmuiZhg 
+Demo Video: https://youtu.be/O79PDFAx3iA
 
 ### Installation
 
